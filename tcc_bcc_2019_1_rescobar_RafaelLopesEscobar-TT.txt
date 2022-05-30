@@ -1,0 +1,16 @@
+O projeto foi desenvolvido nas seguintes ferramentas e versões:
+
+> Unity (versão 2018.2.18f1  Personal) 64-bit
+
+> Microsoft Visual Studio Community 2017 (versão 15.5.7)
+
+> Microsoft .NET Framework (versão 4.7.03062)
+
+> Java (jdk1.8.0_161)
+
+> Android (sdk 26.0.2)
+
+Após instalar as ferramentas acima, Deve configurar o Unity:
+ Edit > Preferences > External Tools - Indicar o diretório do Java no campo JDK; Indicar o diretório do Android no campo SDK
+
+Descompactar o .zip da pasta fontes, no Unity basta abrir o projeto descompacto e já deve funcionar corretamente, pois os assets e opencv estão dentro do projeto e já configurados, logo não há necessidade de instalar o OpenCv.
